@@ -1,0 +1,10 @@
+{
+  "id": "com.ninjablocks.limitless",
+  "name": "Limitless Driver",
+  "version": "0.0.1",
+  "description": "Limmitless groups exposes them as Lights with on-off",
+  "main": "driver-go-limitless",
+  "author": "Chris Neave <chris@ninjablocks.com>",
+  "license": "MIT",
+  "maxMemory": 10
+}
